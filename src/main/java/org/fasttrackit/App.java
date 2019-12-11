@@ -13,6 +13,10 @@ public class App {
         Game game = new Game();
         game.start();
 
+//        do {
+//            System.out.println("test");
+//        } while (true);
+
 //        String a = "test";
 //        String b = "test";
 //        String c = new String("test");
